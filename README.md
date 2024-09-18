@@ -13,8 +13,8 @@ Browser navigation and interaction managed using Selenium WebDriver.
 
 # Technologies Used:
 
-Python: Main programming language.
+programming language: Python
 
-Selenium WebDriver: For browser automation.
+Browser: Selenium WebDriver
 
-PyCharm: IDE for development.
+IDE: PyCharm
