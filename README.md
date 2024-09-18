@@ -1,4 +1,4 @@
-# Grameenphone_-web_Automate
+# Grameenphone_web_Automate
 This repository contains a Selenium-based automation script written in Python to test the main functionalities of the Grameenphone website. The automation covers navigation through key sections like "Personal", "Business", "About", testing the language switcher (বাংলা/English), and performing a search using the website's search bar.
 
 # Features:
